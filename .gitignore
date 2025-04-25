@@ -1,0 +1,31 @@
+# Ignore arquivos temporários do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignore arquivos de compilação
+*.o
+*.obj
+*.exe
+*.out
+*.class
+
+# Ignore arquivos de log
+*.log
+
+# Ignore configurações de IDEs
+.vscode/
+.idea/
+*.iml
+
+# Ignore arquivos temporários
+*.tmp
+*.temp
+*.swp
+
+# Ignore arquivos gerados pelo usuário
+*.bak
+*.old
+
+# Ignore diretórios de build
+build/
+dist/
