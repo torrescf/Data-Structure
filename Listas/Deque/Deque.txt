@@ -1,0 +1,2 @@
+so pode inserir elemento nas suas pontas(inicio ou fim)
+adaptacao de listas
